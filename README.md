@@ -129,6 +129,6 @@ Após rodar os *seeders*, você pode usar os seguintes usuários ou criar um nov
 ## Autores
 
 * **Anna Laura M. M. Pereira**
-* **Letícia P. Boascivis**
+* **Letícia Preisigke Boascivis**
 
 Desenvolvido como projeto acadêmico para a disciplina de Engenharia de Software - UNEMAT.
